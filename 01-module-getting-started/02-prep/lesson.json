@@ -1,0 +1,26 @@
+{
+  "id": "spring-boot-2-5-to-2-7-upgrade-getting-started-prep",
+  "slug": "spring-boot-2-5-to-2-7-upgrade-getting-started-prep",
+  "title": "Preparing to upgrade",
+  "status": "live",
+  "type": "article",
+  "entitlements": ["auth"],
+  "duration": 900,
+  "settings": {
+    "manualCompletion": true,
+    "links": [
+      {
+        "text": "Upgrading Spring Boot 2.6 to 2.7",
+        "url": "https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-2.7-Release-Notes#upgrading-from-spring-boot-26"
+      },
+      {
+        "text": "Upgrading Spring Boot 2.5 to 2.6",
+        "url": "https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-2.6-Release-Notes#upgrading-from-spring-boot-25"
+      },
+      {
+        "text": "Spring Boot Supported Versions and End-of-Life Schedule",
+        "url": "https://spring.io/projects/spring-boot#support"
+      }
+    ]
+  }
+}

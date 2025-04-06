@@ -1,0 +1,1 @@
+In this lab you'll make any necessary update to our Spring Boot 2.5 application so it compiles and the test pass. This will be our _known good state_ where we can begin our upgrade to Spring Boot 2.7.

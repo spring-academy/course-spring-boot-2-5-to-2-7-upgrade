@@ -1,0 +1,11 @@
+name: Assess
+modules:
+  activate:
+    - 00-overview
+    - 01-update-spring-security-version
+    - 02-websecurityconfigureradapter
+    - 03-antrequestmatchers
+    - 04-Passwordencoders
+    - 05-EnableWebSecurity
+    - 06-baseline
+    - 99-summary

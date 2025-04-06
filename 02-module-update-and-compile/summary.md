@@ -1,0 +1,1 @@
+In this module, you learned the `Update` step of the PA**U**TR upgrade process. You updated your build file to the new version of Spring Boot, then cleaned up your dependcies to ensure that things will interoperate smoothly. You also learned some best practices, relative to dependency versioning. Then, you got the application compiling again!

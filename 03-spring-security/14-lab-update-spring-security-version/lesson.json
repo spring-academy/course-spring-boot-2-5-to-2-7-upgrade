@@ -1,0 +1,12 @@
+{
+  "id": "spring-boot-2-5-to-2-7-upgrade-spring-security-spring-security-update-version",
+  "slug": "spring-boot-2-5-to-2-7-upgrade-spring-security-spring-security-update-version",
+  "title": "Lab: Update Spring Security version",
+  "status": "live",
+  "type": "lab",
+  "duration": 900,
+  "settings": {
+    "manualCompletion": true,
+    "educates": "spr-upgrade-25-27-06-uss"
+  }
+}

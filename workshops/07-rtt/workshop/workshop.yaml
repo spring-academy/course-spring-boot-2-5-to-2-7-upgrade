@@ -1,0 +1,12 @@
+name: Non Spring
+modules:
+  activate:
+    - 00-overview
+    - 01-run-the-tests
+    - 02-small-change
+    - 03-compile-and-assess
+    - 04-react
+    - 05-small-change-2
+    - 06-compile-and-assess-2
+    - 07-react-2
+    - 99-summary

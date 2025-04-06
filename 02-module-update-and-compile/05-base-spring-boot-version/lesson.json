@@ -1,0 +1,11 @@
+{
+  "id": "spring-boot-2-5-to-2-7-upgrade-update-and-compile-base-spring-boot-version",
+  "slug": "spring-boot-2-5-to-2-7-upgrade-update-and-compile-base-spring-boot-version",
+  "title": "Update the base Spring Boot version",
+  "status": "live",
+  "type": "article",
+  "duration": 480,
+  "settings": {
+    "manualCompletion": true
+  }
+}

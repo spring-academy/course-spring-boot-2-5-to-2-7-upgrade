@@ -1,0 +1,17 @@
+{
+  "id": "spring-boot-2-5-to-2-7-upgrade-getting-started-assess",
+  "slug": "spring-boot-2-5-to-2-7-upgrade-getting-started-assess",
+  "title": "Assess",
+  "status": "live",
+  "type": "article",
+  "duration": 300,
+  "settings": {
+    "manualCompletion": true,
+    "links": [
+      {
+        "text": "Logging in Spring",
+        "url": "https://docs.spring.io/spring-boot/docs/1.5.6.RELEASE/reference/html/howto-logging.html"
+      }
+    ]
+  }
+}

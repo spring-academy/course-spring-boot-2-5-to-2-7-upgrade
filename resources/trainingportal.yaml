@@ -1,0 +1,46 @@
+apiVersion: training.educates.dev/v1beta1
+kind: TrainingPortal
+metadata:
+  name: spring-academy
+spec:
+  portal:
+    registration:
+      type: anonymous
+    updates:
+      workshop: true
+    sessions:
+      maximum: 15
+  workshops:
+    # The following are the items that should be added to the trainingportal in the deployment environment.
+    - name: spr-upgrade-25-27-01-kgs
+      expires: 60m
+      orphaned: 5m
+      reserved: 0
+    - name: spr-upgrade-25-27-02-usbv
+      expires: 60m
+      orphaned: 5m
+      reserved: 0
+    - name: spr-upgrade-25-27-03-usd
+      expires: 60m
+      orphaned: 5m
+      reserved: 0
+    - name: spr-upgrade-25-27-04-unsd
+      expires: 60m
+      orphaned: 5m
+      reserved: 0
+    - name: spr-upgrade-25-27-05-gitc
+      expires: 60m
+      orphaned: 5m
+      reserved: 0
+    - name: spr-upgrade-25-27-06-uss
+      expires: 60m
+      orphaned: 5m
+      reserved: 0
+    - name: spr-upgrade-25-27-07-rtt
+      expires: 60m
+      orphaned: 5m
+      reserved: 0
+    - name: spr-upgrade-25-27-08-dpre
+      expires: 60m
+      orphaned: 5m
+      reserved: 0

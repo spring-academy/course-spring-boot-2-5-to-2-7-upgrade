@@ -1,0 +1,10 @@
+{
+  "id": "spring-boot-2-5-to-2-7-upgrade-testing",
+  "slug": "spring-boot-2-5-to-2-7-upgrade-testing",
+  "title": "Test for success",
+  "status": "live",
+  "duration": 60,
+  "settings": {
+    "manualCompletion": true
+  }
+}

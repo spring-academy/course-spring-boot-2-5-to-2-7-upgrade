@@ -1,0 +1,8 @@
+name: Assess
+modules:
+  activate:
+    - 00-overview
+    - 01-assess
+    - 02-fix-skipped
+    - 03-baseline
+    - 04-summary

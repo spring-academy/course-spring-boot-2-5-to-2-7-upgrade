@@ -1,0 +1,25 @@
+modules:
+  00-overview:
+    name: "Overview"
+    exit_sign: "Continue"
+  01-update-spring-security-version:
+    name: "Update Spring Security version"
+    exit_sign: Continue
+  02-websecurityconfigureradapter:
+    name: "Update to Security Filter Chain"
+    exit_sign: Continue
+  03-antrequestmatchers:
+    name: "Update Request Matchers"
+    exit_sign: Continue
+  04-Passwordencoders:
+    name: "Update Password Encoders"
+    exit_sign: Continue
+  05-EnableWebSecurity:
+    name: "Handle Changed EnableWebSecurity annotation"
+    exit_sign: Continue
+  06-baseline:
+    name: "Establish a new baseline"
+    exit_sign: Continue
+  99-summary:
+    name: "Summary"
+    exit_sign: "Finish"

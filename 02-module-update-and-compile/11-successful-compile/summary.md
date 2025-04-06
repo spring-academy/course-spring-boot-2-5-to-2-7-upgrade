@@ -1,0 +1,1 @@
+In this lesson you learned to fix the build. Using SCAR and working iteratively resolving errors, warnings, and deprecations. The application is now compiling under the upgraded versions of Spring Boot! Congratulations!

@@ -1,0 +1,1 @@
+In this lab you took the first concrete step to upgrading our Spring Boot application from version 2.5 to to 2.7. Yes, our application has problems, but as they say: admitting we have a problem is the first step towards healing... or, _upgrading_ in our case!

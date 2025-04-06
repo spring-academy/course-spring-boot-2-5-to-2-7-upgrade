@@ -1,0 +1,8 @@
+name: Assess
+modules:
+  activate:
+    - 00-overview
+    - 01-small-change
+    - 02-compile
+    - 03-react
+    - 99-summary

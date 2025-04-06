@@ -1,0 +1,12 @@
+{
+  "id": "spring-boot-2-5-to-2-7-upgrade-update-and-compile-get-it-to-compile-again-lab",
+  "slug": "spring-boot-2-5-to-2-7-upgrade-update-and-compile-get-it-to-compile-again-lab",
+  "title": "Lab: Get the application to successfully compile again",
+  "status": "live",
+  "type": "lab",
+  "duration": 420,
+  "settings": {
+    "manualCompletion": true,
+    "educates": "spr-upgrade-25-27-05-gitc"
+  }
+}

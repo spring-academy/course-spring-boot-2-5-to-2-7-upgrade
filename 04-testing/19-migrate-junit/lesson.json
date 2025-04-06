@@ -1,0 +1,25 @@
+{
+  "id": "spring-boot-2-5-to-2-7-upgrade-testing-migrate-junit",
+  "slug": "spring-boot-2-5-to-2-7-upgrade-testing-migrate-junit",
+  "title": "Migrating from JUnit 4 to JUnit 5 (Jupiter)",
+  "status": "live",
+  "type": "article",
+  "duration": 300,
+  "settings": {
+    "manualCompletion": true,
+    "links": [
+      {
+        "text": "JUnit 5",
+        "url": "https://junit.org/junit5/"
+      },
+      {
+        "text": "JUnit 4",
+        "url": "https://junit.org/junit4/"
+      },
+      {
+        "text": "JUnit Vintage",
+        "url": "https://mvnrepository.com/artifact/org.junit.vintage/junit-vintage-engine"
+      }
+    ]
+  }
+}

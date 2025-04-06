@@ -1,0 +1,1 @@
+In this course, you'll learn the benefits of upgrading from Spring Boot 2.5 to Spring Boot 2.7 and master our systematic and pragmatic approach to the upgrade process. Not only that, you'll use our hands-on lab environment to perform a real Spring Boot 2.5 to 2.7 upgrade for each step.

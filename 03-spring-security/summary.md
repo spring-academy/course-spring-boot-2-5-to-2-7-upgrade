@@ -1,0 +1,1 @@
+This module focuses on Spring Security. Your application is compiling, but if you're using Spring Security, now's a good time to review your code and configuration, to ensure you are doing things based on the most current version. This will pay dividends later when you upgrade to Spring Boot 3.x.

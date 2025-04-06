@@ -1,0 +1,10 @@
+{
+  "id": "spring-boot-2-5-to-2-7-upgrade-update-and-compile",
+  "slug": "spring-boot-2-5-to-2-7-upgrade-update-and-compile",
+  "title": "Update and compile",
+  "status": "live",
+  "duration": 60,
+  "settings": {
+    "manualCompletion": true
+  }
+}
