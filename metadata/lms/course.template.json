@@ -2,7 +2,7 @@
   "id": "spring-boot-2-5-to-2-7-upgrade",
   "slug": "spring-boot-2-5-to-2-7-upgrade",
   "title": "Upgrading from Spring Boot 2.5 to 2.7",
-  "status": "live",
+  "status": "unlisted",
   "order": 700,
   "level": "intermediate",
   "topics": ["java", "testing", "intermediate", "modernization", "upgrade"],
