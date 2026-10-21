@@ -6,7 +6,7 @@
   "order": 700,
   "level": "intermediate",
   "topics": ["java", "testing", "intermediate", "modernization", "upgrade"],
-  "entitlements": ["pro"],
+  "entitlements": ["auth"],
   "instructors": ["spring-jonathan-newell", "spring-dan-frey"],
   "settings": {
     "thumbnail": "https://raw.githubusercontent.com/spring-academy/spring-academy-assets/main/courses/course-spring-boot-2-5-to-2-7-upgrade/course-thumbnail-large.svg",
