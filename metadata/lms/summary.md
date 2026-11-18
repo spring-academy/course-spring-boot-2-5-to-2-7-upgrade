@@ -1,3 +1,5 @@
+### THIS CONTENT IS DEPRECATED
+
 ## What is covered in this course?
 
 - Upgrading an application from Spring Boot 2.5.x to 2.7.x
